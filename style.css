@@ -60,6 +60,7 @@
     overflow: hidden;
     border-radius: 20px; 
     object-fit: cover;
+    object-position: center center;
     
 }
 
@@ -69,6 +70,8 @@
         width: 100%;
         overflow: hidden;
         border-radius: 20px;
+        object-fit: cover;
+        object-position: center center;
     }
 }
 
@@ -91,6 +94,7 @@
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     object-fit: cover;
+    object-position:center center;
 }
 
 .btn{
@@ -100,6 +104,8 @@
 @media (max-width:770px) {
     .img-menu{
         height: 150px;
+        object-fit: cover;
+        object-position:center center;
     }
 
     .card p{
