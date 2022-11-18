@@ -82,7 +82,11 @@
     background-image: url(images/fondo\ price.webp);
 }
 
-
+@media (max-width:355px) {
+    .padd-card{
+        padding: 0;
+    }
+}
 
 .card{
     border-radius: 20px;
