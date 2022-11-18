@@ -1,4 +1,4 @@
-A WEB PAGE OF A PIZZA RESTAURANT USING HTML, CSS AND BOOTSTRAP.
+A RESPONSIVE WEB SITE FOR A PIZZA RESTAURANT USING HTML, CSS AND BOOTSTRAP.
 
 # Pizza-Restaurant![localhost_5500_index html (1)](https://user-images.githubusercontent.com/115671497/202586599-8679fc2b-0963-49db-a344-197ceae559f9.png)
 ![localhost_5500_index html](https://user-images.githubusercontent.com/115671497/202586559-584d3858-a411-465d-a6b4-9fc0d2bc29c5.png)
